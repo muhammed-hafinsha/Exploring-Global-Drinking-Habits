@@ -1,4 +1,4 @@
-# Beer Servings Dataset Analysis
+# Exploring Global Drinking Habits
 
 ## Overview
 This project explores global alcohol consumption patterns using the Beer Servings dataset. The dataset contains information about beer, spirit, and wine consumption, along with total litres of pure alcohol consumed per person across different countries. The analysis includes data preprocessing, exploratory data analysis (EDA), visualization, and correlation studies.
